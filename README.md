@@ -1,4 +1,4 @@
-# Script
+# Rick's MLC Contracts for Getting Started with kOS
 These are some custom contracts which can be used to get to know kOS from inside the Kerbal Space Program Contracts system.
 
 Usage:
